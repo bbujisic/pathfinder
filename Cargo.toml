@@ -1,0 +1,10 @@
+[package]
+name = "router"
+version = "0.1.0"
+authors = ["Daniel Morante <daniel@platform.sh>"]
+
+[dependencies]
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
+base64 = "*"
