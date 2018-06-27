@@ -24,7 +24,7 @@ fn main() {
         
     for (key, value) in decoded {		
 		if value["type"] == "upstream" && value["upstream"] == command_line_args[2]{			
-			println!("Value: {:?}", key);
+			println!("{}", key);
 		}
 	}    
 }
