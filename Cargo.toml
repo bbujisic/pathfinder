@@ -1,5 +1,5 @@
 [package]
-name = "router"
+name = "pathfinder"
 version = "0.1.0"
 authors = ["Daniel Morante <daniel@platform.sh>"]
 
